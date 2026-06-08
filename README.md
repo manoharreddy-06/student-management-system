@@ -36,21 +36,19 @@ A web-based Student Management System built using Spring Boot, Thymeleaf, Spring
 ## Screenshots
 
 ### Student List Page
-
-![Student List](images/student-list.png)
+![Student List](images/list%20of%20students.png)
 
 ### Add Student Page
-
-![Add Student](images/add-student.png)
+![Add Student](images/create%20student.png)
 
 ### Edit Student Page
-
-![Edit Student](images/edit-student.png)
+![Edit Student](images/edit%20student.png)
 
 ### View Student Page
+![View Student](images/student%20details.png)
 
-![View Student](images/view-student.png)
-
+### MySQL Database
+![MySQL](images/Mysql.png)
 ## How to Run
 
 1. Clone the repository
